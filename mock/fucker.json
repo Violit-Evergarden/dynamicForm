@@ -1,0 +1,59 @@
+{
+  "featureTools": {
+    "name": "特色工具",
+    "sort": "1+2+3",
+    "color": "#fff",
+    "list": [
+      {
+        "icon": "https://images3.c-ctrip.com/zt/activity/20200907-ztrip-kanjia/icon-pyq.png",
+        "title": "余票捡漏",
+        "subTitle": "解决购票/买票问题",
+        "appUrl": "/home/train",
+        "miniUrl": "/pages/home/index",
+        "h5Url": "https://pages.suanya.com/webapp/20230310-grab-calendar/home?isHideNavBar=YES",
+        "type": "h5",
+        "onlyOrder": true
+      },
+      {
+        "icon": "https://images3.c-ctrip.com/zt/activity/20200907-ztrip-kanjia/icon-pyq.png",
+        "title": "余票捡漏",
+        "subTitle": "解决购票/买票问题",
+        "appUrl": "/home/train",
+        "miniUrl": "/pages/home/index",
+        "h5Url": "https://pages.suanya.com/webapp/20230310-grab-calendar/home?isHideNavBar=YES",
+        "type": "h5",
+        "onlyOrder": true
+      },
+      {
+        "icon": "https://images3.c-ctrip.com/zt/activity/20200907-ztrip-kanjia/icon-pyq.png",
+        "title": "余票捡漏",
+        "subTitle": "解决购票/买票问题",
+        "appUrl": "/home/train",
+        "miniUrl": "/pages/home/index",
+        "h5Url": "https://pages.suanya.com/webapp/20230310-grab-calendar/home?isHideNavBar=YES",
+        "type": "h5",
+        "onlyOrder": true
+      },
+      {
+        "icon": "https://images3.c-ctrip.com/zt/activity/20200907-ztrip-kanjia/icon-pyq.png",
+        "title": "余票捡漏",
+        "subTitle": "解决购票/买票问题",
+        "appUrl": "/home/train",
+        "miniUrl": "/pages/home/index",
+        "h5Url": "https://pages.suanya.com/webapp/20230310-grab-calendar/home?isHideNavBar=YES",
+        "type": "h5",
+        "onlyOrder": true
+      },
+      {
+        "icon": "https://images3.c-ctrip.com/zt/activity/20200907-ztrip-kanjia/icon-pyq.png",
+        "title": "余票捡漏",
+        "subTitle": "解决购票/买票问题",
+        "appUrl": "/home/train",
+        "miniUrl": "/pages/home/index",
+        "h5Url": "https://pages.suanya.com/webapp/20230310-grab-calendar/home?isHideNavBar=YES",
+        "type": "h5",
+        "onlyOrder": true
+      }
+    ]
+  }
+}
